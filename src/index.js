@@ -1,12 +1,41 @@
-import React from 'react';
+import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Main from './components/Main';
+import SideNav from './components/SideNav';
+import MobNav from './components/MobNav';
+import {withRouter} from 'react-router';
+import Porfolio from './components/Porfolio';
+import Contact from './components/Contact';
+import Cv from './components/Cv';
+import {
+  Route,
+  NavLink,
+  HashRouter
+} from "react-router-dom";
+
+
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+
+  <HashRouter>
+  
+      <Route path = "/contact" component={withRouter(Contact)} />
+      <Route path = "/cv" component={withRouter(Cv)} />
+      <Route path = "/porfolio" component={withRouter(Porfolio)} />
+      <Route exact path = "/" component={withRouter(Main)} />
+    
+  </HashRouter> 
+    <MobNav />  
+    <SideNav />
+    
+    
+    
+    
+    
   </React.StrictMode>,
   document.getElementById('root')
 );
