@@ -10,6 +10,7 @@ import {withRouter} from 'react-router';
 import Porfolio from './components/Porfolio';
 import Contact from './components/Contact';
 import Cv from './components/Cv';
+import BrowserRouter from 'react-router-dom/BrowserRouter'
 import {
   Route,
   NavLink,
@@ -19,6 +20,7 @@ import {
 
 
 ReactDOM.render(
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
   <React.StrictMode>
 
   <HashRouter>
@@ -36,7 +38,8 @@ ReactDOM.render(
     
     
     
-  </React.StrictMode>,
+  </React.StrictMode>
+  </BrowserRouter>,
   document.getElementById('root')
 );
 
