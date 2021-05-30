@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.a7edd1d1.chunk.css",
-    "main.js": "/Portfolio/static/js/main.78f28522.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.78f28522.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.895fe4f5.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.895fe4f5.js.map",
+    "main.js": "/Portfolio/static/js/main.6d6296f2.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.6d6296f2.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.0333caf6.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.0333caf6.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/Portfolio/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.6a5f94b7.chunk.js": "/Portfolio/static/js/2.6a5f94b7.chunk.js",
-    "static/js/2.6a5f94b7.chunk.js.map": "/Portfolio/static/js/2.6a5f94b7.chunk.js.map",
-    "static/js/3.5037fd86.chunk.js": "/Portfolio/static/js/3.5037fd86.chunk.js",
-    "static/js/3.5037fd86.chunk.js.map": "/Portfolio/static/js/3.5037fd86.chunk.js.map",
+    "static/js/2.eaea1147.chunk.js": "/Portfolio/static/js/2.eaea1147.chunk.js",
+    "static/js/2.eaea1147.chunk.js.map": "/Portfolio/static/js/2.eaea1147.chunk.js.map",
+    "static/js/3.1bf39909.chunk.js": "/Portfolio/static/js/3.1bf39909.chunk.js",
+    "static/js/3.1bf39909.chunk.js.map": "/Portfolio/static/js/3.1bf39909.chunk.js.map",
     "index.html": "/Portfolio/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/Portfolio/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.a7edd1d1.chunk.css.map": "/Portfolio/static/css/main.a7edd1d1.chunk.css.map",
-    "static/js/2.6a5f94b7.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.6a5f94b7.chunk.js.LICENSE.txt",
+    "static/js/2.eaea1147.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.eaea1147.chunk.js.LICENSE.txt",
     "static/media/amazonclone.5a8c459f.PNG": "/Portfolio/static/media/amazonclone.5a8c459f.PNG",
     "static/media/ammar2020cv3.e8df5cee.pdf": "/Portfolio/static/media/ammar2020cv3.e8df5cee.pdf",
     "static/media/index.css": "/Portfolio/static/media/back-cover.4fa7df82.jpg",
@@ -21,10 +21,10 @@
     "static/media/fypdataset.76c8f0a0.PNG": "/Portfolio/static/media/fypdataset.76c8f0a0.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.895fe4f5.js",
+    "static/js/runtime-main.0333caf6.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.6a5f94b7.chunk.js",
+    "static/js/2.eaea1147.chunk.js",
     "static/css/main.a7edd1d1.chunk.css",
-    "static/js/main.78f28522.chunk.js"
+    "static/js/main.6d6296f2.chunk.js"
   ]
 }
