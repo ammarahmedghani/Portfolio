@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.a7edd1d1.chunk.css",
-    "main.js": "/Portfolio/static/js/main.6d6296f2.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.6d6296f2.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.45fa16b8.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.45fa16b8.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.0333caf6.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.0333caf6.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/Portfolio/static/css/2.4c97ca4f.chunk.css",
@@ -14,6 +14,7 @@
     "static/css/2.4c97ca4f.chunk.css.map": "/Portfolio/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.a7edd1d1.chunk.css.map": "/Portfolio/static/css/main.a7edd1d1.chunk.css.map",
     "static/js/2.eaea1147.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.eaea1147.chunk.js.LICENSE.txt",
+    "static/media/Mohatta.9d95103e.PNG": "/Portfolio/static/media/Mohatta.9d95103e.PNG",
     "static/media/amazonclone.5a8c459f.PNG": "/Portfolio/static/media/amazonclone.5a8c459f.PNG",
     "static/media/ammar2020cv3.e8df5cee.pdf": "/Portfolio/static/media/ammar2020cv3.e8df5cee.pdf",
     "static/media/index.css": "/Portfolio/static/media/back-cover.4fa7df82.jpg",
@@ -25,6 +26,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.eaea1147.chunk.js",
     "static/css/main.a7edd1d1.chunk.css",
-    "static/js/main.6d6296f2.chunk.js"
+    "static/js/main.45fa16b8.chunk.js"
   ]
 }
