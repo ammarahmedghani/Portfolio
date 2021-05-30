@@ -29,6 +29,11 @@ function Porfolio() {
                         <a href="http://complainforum.weuno.co/"><Projects title={"Complain Forum"} name={complainforum} details={"using Bootstrap/CSS3"} /></a>
                     </Col>
                 </Row>
+                <Row className="justify-content-center mt-5 ">
+                    <Col md={3} className="text-center">
+                        <a href="https://heuristic-yalow-b3fbf7.netlify.app/"><Projects title={"Amazon Clone"} name={amazonclone} details={"using React.js/Firebase"} /></a>
+                    </Col>
+                </Row>
             </Container>
         </div>
     )
